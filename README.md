@@ -1,5 +1,3 @@
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-
 <h1 align="center" style="font-weight: bold;">Curso_Java_Rocketseat 💻</h1>
 
 <p align="center">
@@ -26,7 +24,7 @@
 
 <h2 id="technologies">💻 Technologies</h2>
 
-![java]
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 <h2 id="started">🚀 Getting started</h2>
 
