@@ -1,14 +1,16 @@
 import java.time.Duration;
+import java.time.LocalDate;
 import java.time.LocalDateTime;
 import java.util.List;
 import java.util.ArrayList;
 
 public class ContaCorrente {
     static String nomeDoCliente = "José";
-    static String dataDeNacimento = "19/04/2002";
+    LocalDate dataNacimento = LocalDate.of(2002,04,19);
     static int numeroDaConta = 555010;
     static int numeroDaAgencia = 0001;
     static double saldoDaConta = 123.99;
+    static boolean ativo = true;
 
     public static void sacandoValor (int valorSolicitado){
         if (saldoDaConta >= valorSolicitado){
@@ -31,9 +33,10 @@ public class ContaCorrente {
             System.out.println("O valor não é suficiente!");
         }
     }
-    //public static void cancelamento (){
-
-    //}
+    public static void cancelamento (){
+        ativo = !ativo;
+        System.out.println("A situação da conta é: " + ativo);
+    }
 
 
     static List<movimentacao> historico = new ArrayList<>();
@@ -75,5 +78,6 @@ public class ContaCorrente {
         transferindo(10);
         filtroMovimentacao();
         mostrarSaldo();
+        cancelamento();
     }
 }
