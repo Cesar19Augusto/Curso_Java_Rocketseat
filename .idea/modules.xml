@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ContaCorrente/ContaCorrente.iml" filepath="$PROJECT_DIR$/ContaCorrente/ContaCorrente.iml" />
       <module fileurl="file://$PROJECT_DIR$/Curso_Java_Rocketseat.iml" filepath="$PROJECT_DIR$/Curso_Java_Rocketseat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello_world/hello_world.iml" filepath="$PROJECT_DIR$/hello_world/hello_world.iml" />
     </modules>
   </component>
 </project>
