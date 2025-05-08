@@ -1,4 +1,4 @@
-/* Seção 5 – Operadores
+package Exercicio_Chat;/* Seção 5 – Operadores
 Exercício:
 -Peça dois números inteiros ao usuário e:
 -Mostre a soma, subtração, multiplicação, divisão e o resto da divisão.

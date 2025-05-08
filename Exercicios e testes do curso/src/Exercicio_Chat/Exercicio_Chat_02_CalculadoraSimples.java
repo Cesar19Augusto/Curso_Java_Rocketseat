@@ -1,4 +1,4 @@
-/*Seção 2 – Estrutura do Código Java
+package Exercicio_Chat;/*Seção 2 – Estrutura do Código Java
 Exercício:
 -Crie uma classe chamada CalculadoraSimples com um metodo main.
 Dentro do main, apenas imprima a mensagem: "Calculadora Iniciada".

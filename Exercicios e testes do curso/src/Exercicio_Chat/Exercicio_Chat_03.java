@@ -1,4 +1,4 @@
-/*Seção 3 – Tipos e Variáveis
+package Exercicio_Chat;/*Seção 3 – Tipos e Variáveis
 Exercício:
 -Declare uma variável int para idade e uma double para altura.
 -Faça a conversão da altura para int e imprima ambos os valores.

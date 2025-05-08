@@ -1,4 +1,4 @@
-/* Seção 1 – Sintaxe e Semântica
+package Exercicio_Chat;/* Seção 1 – Sintaxe e Semântica
 Exercício:
 -Escreva um programa que imprime seu nome e sua idade no console.
 -Objetivo: Treinar estrutura básica e escrita correta do código. */

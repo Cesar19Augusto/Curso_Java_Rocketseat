@@ -1,4 +1,4 @@
-/*🔁 Seção 4 – Estruturas de Repetição
+package Exercicio_Chat;/*🔁 Seção 4 – Estruturas de Repetição
 Exercício:
 -Crie um pequeno projeto Java (console) que resolva o seguinte problema:
 

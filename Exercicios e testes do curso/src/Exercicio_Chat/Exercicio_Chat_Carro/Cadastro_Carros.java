@@ -1,4 +1,4 @@
-package Exercicio_Chat_Carro;
+package Exercicio_Chat.Exercicio_Chat_Carro;
 
 public class Cadastro_Carros {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-/* Seção 4 – Palavras Reservadas
+package Exercicio_Chat;/* Seção 4 – Palavras Reservadas
 Exercício:
 -Tente criar uma variável chamada class ou public. Veja o erro.
 -Depois, corrija usando nomes válidos, como nomeClasse ou nivelPublico.

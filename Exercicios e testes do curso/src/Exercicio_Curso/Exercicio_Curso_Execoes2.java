@@ -1,3 +1,5 @@
+package Exercicio_Curso;
+
 import java.text.NumberFormat;
 import java.text.ParseException;
 

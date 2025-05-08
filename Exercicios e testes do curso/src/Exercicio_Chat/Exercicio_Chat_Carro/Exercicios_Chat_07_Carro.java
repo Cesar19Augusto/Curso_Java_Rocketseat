@@ -1,4 +1,4 @@
-package Exercicio_Chat_Carro;
+package Exercicio_Chat.Exercicio_Chat_Carro;
 /* Seção 7 – JavaBeans e Convenções
 Exercício:
 -Crie uma classe Carro com:
