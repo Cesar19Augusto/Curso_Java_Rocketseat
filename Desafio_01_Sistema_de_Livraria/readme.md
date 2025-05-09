@@ -16,9 +16,13 @@
 
 <h2 id="layout">🎨 Code img</h2>
 
-<p align="center">
+<p align="left">
     <img src="https://github.com/Cesar19Augusto/Curso_Java_Rocketseat/blob/main/Desafio_01_Sistema_de_Livraria/img/1code.png" alt="Image code1" width="300px">
+</p>
+<p align="center">
     <img src="https://github.com/Cesar19Augusto/Curso_Java_Rocketseat/blob/main/Desafio_01_Sistema_de_Livraria/img/2code.png" alt="Image code2" width="300px">
+</p>
+<p align="right">
     <img src="https://github.com/Cesar19Augusto/Curso_Java_Rocketseat/blob/main/Desafio_01_Sistema_de_Livraria/img/3code.png" alt="Image code3" width="300px">
 </p>
 
