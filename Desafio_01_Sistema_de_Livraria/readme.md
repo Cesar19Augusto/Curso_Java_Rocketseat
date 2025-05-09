@@ -15,16 +15,12 @@
 </p> -->
 
 <h2 id="layout">🎨 Code img</h2>
-<div>
-<p align="left">
-    <img src="https://github.com/Cesar19Augusto/Curso_Java_Rocketseat/blob/main/Desafio_01_Sistema_de_Livraria/img/1code.png" alt="Image code1" width="300px">
-</p>
-<p align="center">
-    <img src="https://github.com/Cesar19Augusto/Curso_Java_Rocketseat/blob/main/Desafio_01_Sistema_de_Livraria/img/2code.png" alt="Image code2" width="300px">
-</p>
-<p align="right">
-    <img src="https://github.com/Cesar19Augusto/Curso_Java_Rocketseat/blob/main/Desafio_01_Sistema_de_Livraria/img/3code.png" alt="Image code3" width="300px">
-</p>
+<div style="display: flex; justify-content: space-between; gap: 10px;">
+  <img src="https://github.com/Cesar19Augusto/Curso_Java_Rocketseat/blob/main/Desafio_01_Sistema_de_Livraria/img/1code.png?raw=true" alt="Image code1" width="300px">
+  
+  <img src="https://github.com/Cesar19Augusto/Curso_Java_Rocketseat/blob/main/Desafio_01_Sistema_de_Livraria/img/2code.png?raw=true" alt="Image code2" width="300px">
+  
+  <img src="https://github.com/Cesar19Augusto/Curso_Java_Rocketseat/blob/main/Desafio_01_Sistema_de_Livraria/img/3code.png?raw=true" alt="Image code3" width="300px">
 </div>
 
 <h2 id="technologies">💻 Technologies</h2>
