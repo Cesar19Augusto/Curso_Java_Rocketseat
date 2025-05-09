@@ -10,17 +10,17 @@
     <b>This repository contains the implementation of a Bookstore Management System developed as a challenge during the Java course at Rocketseat. The project showcases the application of core Java concepts and object-oriented programming.</b>
 </p>
 
-<!--<p align="center">
+<!-- <p align="center">
      <a href="PROJECT__URL">📱 Visit this Project</a>
-</p>
+</p> -->
 
-<h2 id="layout">🎨 Layout</h2>
+<h2 id="layout">🎨 Code img</h2>
 
 <p align="center">
-    <img src="../.github/example.png" alt="Image Example" width="400px">
-    <img src="../.github/example.png" alt="Image Example" width="400px">
+    <img src="./img/code1.png" alt="Image code" width="400px">
+    <img src="./img/code2.png" alt="Image code" width="400px">
+    <img src="./img/code3.png" alt="Image code" width="400px">
 </p>
--->
 
 <h2 id="technologies">💻 Technologies</h2>
 
