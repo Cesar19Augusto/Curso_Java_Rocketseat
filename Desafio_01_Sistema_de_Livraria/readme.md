@@ -17,9 +17,9 @@
 <h2 id="layout">🎨 Code img</h2>
 
 <p align="center">
-    <img src="./img/1code.png" alt="Image code" width="400px">
-    <img src="./img/2code.png" alt="Image code" width="400px">
-    <img src="./img/3code.png" alt="Image code" width="400px">
+    <img src="./img/1code.png" alt="Image code" width="300px">
+    <img src="./img/2code.png" alt="Image code" width="300px">
+    <img src="./img/3code.png" alt="Image code" width="300px">
 </p>
 
 <h2 id="technologies">💻 Technologies</h2>
